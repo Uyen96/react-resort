@@ -8436,6 +8436,11 @@ react-scripts@3.3.0:
   optionalDependencies:
     fsevents "2.1.2"
 
+react3l-cli@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/react3l-cli/-/react3l-cli-0.3.2.tgz#cd724f1cfafe7ef4d96236dcc6721a28dd7ef5ac"
+  integrity sha512-WcCrZQt3RNRpbbl3sfExioHy7mxccHg5yT2mTqta1pPT0Ux/TNO1MnMALn3r5UQthUxFAzWHzs4AebACQDg9Qg==
+
 react@^16.12.0:
   version "16.12.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.12.0.tgz#0c0a9c6a142429e3614834d5a778e18aa78a0b83"
